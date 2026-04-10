@@ -53,3 +53,4 @@ This is not a project-based repository. These are independent practice codes mea
 ## 👨‍💻 Author
 
 [Ravi Roy](https://github.com/ravicoder01) – Computer Science Engineering (CSE), IILM University
+raviroy2002@gmail.com
